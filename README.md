@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./img/screenshot.png)
+![](./images/screenshot.png)
 
 
 ### Links
@@ -29,6 +29,3 @@ Users should be able to:
 ### What I learned
 
 ```js - filter listings
-
-
-
